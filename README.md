@@ -3,6 +3,6 @@ This repository is for learning how to classify images with machine learning alg
 
 ## Fashion-MNIST
 * Fashion-MNIST is a dataset of Zalando's article images. 
-This is a very popular and simple dataset that works well as a starting point for understanding machine learning. Images of the dataset as well as a more sophisticated explanation of the algorithm and dataset are available [here](https://github.com/zalandoresearch/fashion-mnist)
+This is a very popular and simple dataset that works well as a starting point for understanding machine learning. Images of the dataset as well as a more sophisticated explanation of the algorithm and dataset are available [here](https://github.com/zalandoresearch/fashion-mnist) The algorithm used to classify the images uses the very popular and common convolution neural network method.
 
 ![alt text](https://github.com/anmelus/Image-Classification-Samples/blob/main/mnist-result.png)
